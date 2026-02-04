@@ -1,8 +1,8 @@
 module.exports = {
   '.menu': `📋 MENÚ DE COMANDOS
-.avisos
-.reglas
-.pagos
+.avisosprevision
+.licenciasanitaria
+.sinaviso
 .horarios
 .contacto
 .soporte
